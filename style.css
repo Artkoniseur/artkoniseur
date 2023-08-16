@@ -15,8 +15,13 @@ h2 {
 }
 
 h3 {
-  color: #FF0000;
-  font-size: 5px;
+  color: #8C52FF;
+  font-size: 50px;
+}
+
+h4 {
+  color: #8C52FF;
+  font-size: 10px;
 }
 
 .parent {
