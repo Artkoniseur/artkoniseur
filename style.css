@@ -23,16 +23,3 @@ h4 {
   color: #8C52FF;
   font-size: 10px;
 }
-
-.parent {
-  border: 1px solid black;
-  margin: 1rem;
-  padding: 2rem 2rem;
-  text-align: left;
-}
-.child {
-  display: inline-block;
-  border: 1px solid red;
-  padding: 1rem 1rem;
-  vertical-align: left;
-}
