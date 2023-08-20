@@ -35,16 +35,16 @@ div.box{
 }
 
 .box{
-  width: 300px;
-  border:2px solid #FF0000;
+  width: 3000px;
+  border: 2px solid #FF0000;
   position: relative;
   overflow: hidden;
   
 }
 
 .box img{
-  width: 100%;
-  height: 100%;
+  width: 50%;
+  height: 50%;
 }
 
 .content{
