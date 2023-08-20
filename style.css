@@ -47,12 +47,9 @@ div.box{
 }
 
 .content{
-  vertical-align: top;
   align-items: left;
   text-align: right;
-  display: block;
 }
 
 .box:hover .content{
-  top: 30;
 }
