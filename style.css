@@ -49,7 +49,7 @@ div.box{
   position: absolute;
   align-items: left;
   text-align: right;
-  top: -0%;
+  top: -100%;
 }
 
 .box:hover .content{
