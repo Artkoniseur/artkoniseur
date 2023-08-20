@@ -25,12 +25,14 @@ h4 {
 }
 
 .images-container {
-  max-height: 300px;
-  max-width: 300px;
+  height: 100%;
+  width: 100%;
   display: flex;
 }
 
 .images-container img {
+  max-height: 300px;
+  max-width:300px
   flex: 1;
   margin: 1px;
 }
