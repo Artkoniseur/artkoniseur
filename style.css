@@ -36,7 +36,6 @@ div.box{
 
 .box{
   width: 300px;
-  border: 2px solid #FF0000;
   position: relative;
   overflow: hidden;
 }
