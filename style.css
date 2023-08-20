@@ -46,6 +46,7 @@ div.box{
 }
 
 .content{
+  position: absolute;
   align-items: left;
   text-align: right;
   top: -100%;
