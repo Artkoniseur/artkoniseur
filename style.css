@@ -53,8 +53,8 @@ div.box{
   left: 0;
   position: absolute;
   height: 100%;
-  align-items: center;
-  text-align: center;
+  align-items: left;
+  text-align: right;
   padding: 150px 20px;
   box-sizing: border-box;
 }
