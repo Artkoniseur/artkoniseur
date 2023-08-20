@@ -51,4 +51,5 @@ div.box{
 }
 
 .box:hover .content{
+  top: 0;
 }
