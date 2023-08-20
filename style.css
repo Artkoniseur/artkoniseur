@@ -48,11 +48,6 @@ div.box{
 
 .content{
   vertical-align: top;
-  backround:#FF0000;
-  top: -100%;
-  left: 0;
-  position: absolute;
-  height: 100%;
   align-items: left;
   text-align: right;
   display: block;
