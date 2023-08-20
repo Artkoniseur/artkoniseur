@@ -47,7 +47,7 @@ div.box{
 }
 
 .content{
-  color: white;
+  vertical-align: top;
   backround:#FF0000;
   top: -100%;
   left: 0;
@@ -55,7 +55,7 @@ div.box{
   height: 100%;
   align-items: left;
   text-align: right;
-  box-sizing: border-box;
+  display: block;
 }
 
 .box:hover .content{
