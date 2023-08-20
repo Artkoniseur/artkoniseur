@@ -48,7 +48,7 @@ div.box{
 
 .content{
   color: white;
-  backround:rgba(0,0,0,0.8);
+  backround:#FF0000;
   top: -100%;
   left: 0;
   position: absolute;
@@ -59,6 +59,6 @@ div.box{
   box-sizing: border-box;
 }
 
-.box:hover .img{
+.box:hover .content{
   top: 0;
 }
