@@ -27,7 +27,7 @@ h4 {
 .images-container {
   max-width: 300px;
   max-height: 300px;
-  margin: 30px auto;
+  margin: 5px;
   display: flex;
 }
 
