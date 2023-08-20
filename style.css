@@ -59,6 +59,6 @@ div.box{
   box-sizing: border-box;
 }
 
-.box:hover .content{
+.box:hover .img{
   top: 0;
 }
